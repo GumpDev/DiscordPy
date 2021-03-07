@@ -16,7 +16,7 @@
 </a>
 </p>
 
-Este é um projeto gravado em uma série de videos no meu [canal](https://www.youtube.com/gumpflash) do youtube, onde ensino como criar um bot no Discord com [discord.js](https://discordpy.readthedocs.io/en/latest/index.html).
+Este é um projeto gravado em uma série de videos no meu [canal](https://www.youtube.com/gumpflash) do youtube, onde ensino como criar um bot no Discord com [discord.py](https://discordpy.readthedocs.io/en/latest/index.html).
 
 ### Acompanhe os videos do projeto:
 1. [Começando o Projeto]() Ainda não lançou
